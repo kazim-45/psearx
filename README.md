@@ -31,8 +31,8 @@ Query: linux networking books
 ## Install
 
 ```bash
-git clone <this repo>
-cd private-search
+git clone https://github.com/kazim-45/psearx.git
+cd psearx
 pip install -e .
 ```
 
